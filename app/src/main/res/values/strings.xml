@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Feed Reader</string>
+    <string name="feed_title">Feed Title</string>
+    <string name="feed_des">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</string>
+    <string name="feed_time">19 minutes ago</string>
 </resources>
